@@ -32,7 +32,7 @@ provider "kubernetes" {
 
 resource "kubernetes_namespace" "example" {
   metadata {
-    name = "example-namespace22"
+    name = "example-namespace213123124"
   }
 }
 
